@@ -1,0 +1,13 @@
+Key,Major,Natural_Minor,Harmonic_Minor
+C,C-D-E-F-G-A-B-C,A,A
+G,G-A-B-C-D-E-F♯-G,B,B
+D,D-E-F♯-G-A-B-C♯-D,C,C
+A,A-B-C♯-D-E-F♯-G♯-A,D,D
+E,E-F♯-G♯-A-B-C♯-D♯-E,E,E
+B or C♭,B-C♯-D♯-E-F♯-G♯-A♯-B or C♭-D♭-E♭-F♭-G♭-A♭-B♭-C♭,F,F
+F♯ or G♭,F♯-G♯-A♯-B-C♯-D♯-E♯-F♯ or G♭-A♭-B♭-C♭-D♭-E♭-F-G♭,G,G
+C♯ or D♭,C♯-D♯-E♯-F♯-G♯-A♯-B♯-C♯ or D♭-E♭-F-G♭-A♭-B♭-C-D♭,H,H
+A♭,A♭-B♭-C-D♭-E♭-F-G-A♭,I,I
+E♭,E♭-F-G-A♭-B♭-C-D-E♭,J,J
+B♭,B♭-C-D-E♭-F-G-A-B♭,K,K
+F,G-A-B♭-C-D-E-F,L,L
